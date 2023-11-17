@@ -1,2 +1,2 @@
 # Demo-Simon-Game
-Simon Game using HTML, CSS, JavaScript, JQuery
+Static webpage Simon Game using HTML, CSS, JavaScript, JQuery
